@@ -399,3 +399,4 @@ Now that you've built your own `filter()` method, you have a much deeper grasp o
 [pure]: http://javascript.tutorialhorizon.com/2016/04/24/pure-vs-impure-functions/
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-filter-readme'>Filter</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Filter</p>
