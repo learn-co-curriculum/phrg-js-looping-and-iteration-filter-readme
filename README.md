@@ -391,6 +391,10 @@ The method accepts one argument, a callback function that it will invoke with ea
 
 Now that you've built your own `filter()` method, you have a much deeper grasp of how JavaScript's built-in `Array.prototype.filter()` method works.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-filter-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-filter-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 * [MDN — `Array.prototype.filter()`][filter]
 * [Tutorial Horizon — Pure vs. Impure Functions][pure]
